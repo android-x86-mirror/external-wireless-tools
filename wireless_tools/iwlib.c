@@ -11,6 +11,7 @@
 
 /***************************** INCLUDES *****************************/
 
+#include <strings.h>
 #include "iwlib-private.h"		/* Private header */
 
 /************************ CONSTANTS & MACROS ************************/
